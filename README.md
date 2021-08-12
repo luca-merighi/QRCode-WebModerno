@@ -1,0 +1,4 @@
+<h3 align="center">Gerador de QRCode usando VueJS</h3>
+<h4 align="center">Projeto do Curso Web Moderno Completo com JavaScript Da @Cod3r</h4>
+
+<img src="imgs/qrcode-pane.png" align="center">
